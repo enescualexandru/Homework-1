@@ -1,1 +1,1 @@
-# scoala-informala-homework
+# THIS IS WRITTEN ON MY LAPTOP
