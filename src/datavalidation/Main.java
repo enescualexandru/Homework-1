@@ -10,6 +10,7 @@
  *       always as hhmm.
  */
 
+
 package datavalidation;
 
 import java.util.Scanner;

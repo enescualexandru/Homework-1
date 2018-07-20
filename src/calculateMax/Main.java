@@ -4,6 +4,7 @@
  * - Write a program that reads three numbers from the console and prints the biggest of them.
  * Use the getMax() method you just created.
  */
+
 package calculateMax;
 
 import java.util.Scanner;
