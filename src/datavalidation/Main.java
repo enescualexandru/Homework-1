@@ -9,6 +9,7 @@
  *      Additionally, I've implemented a method called formatTime(), which returns the correct time format,
  *       always as hhmm.
  */
+
 package datavalidation;
 
 import java.util.Scanner;

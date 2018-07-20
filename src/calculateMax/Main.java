@@ -1,9 +1,8 @@
 /**
  * 1. Calculate Max
- *      - Create a method getMax() with two integer (int) parameters, that returns maximal of the two numbers.
- *      - Write a program that reads three numbers from the console and prints the biggest of them.
- *      Use the getMax() method you just created.
- *
+ * - Create a method getMax() with two integer (int) parameters, that returns maximal of the two numbers.
+ * - Write a program that reads three numbers from the console and prints the biggest of them.
+ * Use the getMax() method you just created.
  */
 package calculateMax;
 
