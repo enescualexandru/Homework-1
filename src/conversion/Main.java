@@ -9,7 +9,6 @@
  */
 
 
-
 package conversion;
 
 import java.util.Scanner;
@@ -31,7 +30,7 @@ public class Main {
 
     private static double getCelsius(double fahrenheitDeg) {
         //returns the Celsius temperature rounded to one decimal.
-        double celsiusDeg = (fahrenheitDeg - 50) * 0.556;
+        double celsiusDeg = (fahrenheitDeg - 32) * 5 / 9;
         celsiusDeg = Math.round(celsiusDeg * 10) / 10.0;
         return celsiusDeg;
     }

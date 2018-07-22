@@ -24,7 +24,6 @@ public class Main {
     }
 
     private static int getMax(int a, int b) {
-
         return a < b ? b : a;
     }
 }
